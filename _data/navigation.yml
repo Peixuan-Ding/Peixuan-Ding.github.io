@@ -26,5 +26,5 @@ main:
   # - title: "Guide"
   #   url: /markdown/
   
-  - title: "中文"
-    url: /teaching/ 
+  # - title: "中文"
+  #   url: /chinese/ 
