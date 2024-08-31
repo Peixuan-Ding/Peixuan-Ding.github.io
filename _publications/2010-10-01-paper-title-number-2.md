@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2024
 venue: 'IEEE Transactions on Instrumentation and Measurement'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://ieeexplore.ieee.org/document/10510887'
+# paperurl: 'https://ieeexplore.ieee.org/document/10510887'
 citation: 'P. Ding, Y. Xu and X. -M. Sun, "Multitask Learning for Aero-Engine Bearing Fault Diagnosis With Limited Data," in IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-11, 2024, Art no. 3520111, doi: 10.1109/TIM.2024.3395323.'
 ---
 
