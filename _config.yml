@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "Dalian, Liaoning, China"
-title                    : # "Your Name / Site Title"
-title_separator          : # "-"
+title                    : "Home"
+title_separator          : "-"
 name                     : &name "Peixuan Ding"
 description              : &description "personal description"
 url                      : https://peixuan-ding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
