@@ -1,7 +1,7 @@
 ---
 title: "A novel deep learning approach for intelligent bearing fault diagnosis under extremely small samples"
 collection: publications
-category: Journal
+category: manuscript
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024
