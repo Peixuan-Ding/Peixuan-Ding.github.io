@@ -3,7 +3,7 @@ title: "Self-Supervised Learning Denoising Network For Intelligent Fault Diagnos
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Authors: Yiming Song, Peixuan Ding*, Yi Xu, Bin Yang'
+excerpt: 'Authors: Yiming Song, Peixuan Ding, Yi Xu, Bin Yang'
 date: 2024-02-17
 venue: '2023 38th Youth Academic Annual Conference of Chinese Association of Automation (YAC)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
