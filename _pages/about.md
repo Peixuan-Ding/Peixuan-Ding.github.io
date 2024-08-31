@@ -15,4 +15,4 @@ You can find my CV here: [Peixuan Ding's Curriculum Vitae](../assets/Curriculum_
 
 Email: dingpx@mail.dlut.edu.cn, ding_peixuan@163.com
 
-[Wechat](../images/wechat.jpg)
+# [Wechat](../images/wechat.jpg)
