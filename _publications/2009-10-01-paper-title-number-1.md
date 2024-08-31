@@ -3,11 +3,11 @@ title: "A novel deep learning approach for intelligent bearing fault diagnosis u
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024
 venue: 'Applied Intelligence'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://link.springer.com/article/10.1007/s10489-024-05429-7'
+# paperurl: 'https://link.springer.com/article/10.1007/s10489-024-05429-7'
 citation: 'Ding, P., Xu, Y., Qin, P. et al. A novel deep learning approach for intelligent bearing fault diagnosis under extremely small samples. Appl Intell 54, 5306–5316 (2024). https://doi.org/10.1007/s10489-024-05429-7'
 ---
 
