@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year phd student from [School of Control Science and Engineering](http://scse.dlut.edu.cn), [Dalian University of Technology](https://www.dlut.edu.cn). My research interest includes data science, deep learning, bearing fault diagnosis and PHM.
+I'm a fifth year phd student from School of Control Science and Engineering, Dalian University of Technology. My research interest includes data science, deep learning, fault diagnosis and PHM.
 
-I am very fortunate to be advised by [Prof. Xi-Ming Sun](http://faculty.dlut.edu.cn/2008011041/zh_CN/index.htm) of Key Laboratory of Intelligent Control and Optimisation of Industrial Equipment from [School of Control Science and Engineering](http://scse.dlut.edu.cn), Dalian University of Technology.
+I am very fortunate to be advised by [Prof. Xi-Ming Sun](http://faculty.dlut.edu.cn/2008011041/zh_CN/index.htm) of Key Laboratory of Intelligent Control and Optimisation of Industrial Equipment from [School of Control Science and Engineering](http://scse.dlut.edu.cn), [Dalian University of Technology](https://www.dlut.edu.cn).
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Peixuan Ding's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:dingpx@mail.dlut.edu.cn) / [Github](https://github.com/Peixuan-Ding) / [Wechat](../images/wechat.jpg)
+Email: dingpx@mail.dlut.edu.cn, ding_peixuan@163.com
+
+[Wechat](../images/wechat.jpg)
