@@ -6,7 +6,6 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Authors: Yiming Song, Peixuan Ding, Yi Xu, Bin Yang'
 date: 2024-02-17
 venue: '2023 38th Youth Academic Annual Conference of Chinese Association of Automation (YAC)'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Y. Song, P. Ding, Y. Xu and B. Yang, "Self-Supervised Learning Denoising Network For Intelligent Fault Diagnosis With Limited Labeled Data," 2023 38th Youth Academic Annual Conference of Chinese Association of Automation (YAC), Hefei, China, 2023, pp. 87-92, doi: 10.1109/YAC59482.2023.10401424.'
 ---
 
