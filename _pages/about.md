@@ -14,5 +14,3 @@ I am very fortunate to be advised by [Prof. Xi-Ming Sun](http://faculty.dlut.edu
 You can find my CV here: [Peixuan Ding's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 Email: dingpx@mail.dlut.edu.cn, ding_peixuan@163.com
-
-# [Wechat](../images/wechat.jpg)
