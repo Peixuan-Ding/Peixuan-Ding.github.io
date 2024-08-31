@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in control theory and engineering, Dalian University of Technology, 2025 (expected)
-* M.S. in space technology, China Academy of Space Technology, 2020
-* B.S. in automation, Dalian Maritime University, 2017
+* Ph.D in control theory and engineering, Dalian University of Technology, 2025.06 (expected)
+* M.S. in space technology, China Academy of Space Technology, 2020.06
+* B.S. in automation, Dalian Maritime University, 2017.06
 
 Skills
 ======
