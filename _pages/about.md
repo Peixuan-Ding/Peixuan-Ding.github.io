@@ -1,4 +1,10 @@
 ---
+permalink: /
+title: "Peixuan Ding"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I'm a fourth year phd student from [School of Control Science and Engineering](http://scse.dlut.edu.cn), [Dalian University of Technology](https://www.dlut.edu.cn). My research interest includes data science, deep learning, bearing fault diagnosis and PHM.
