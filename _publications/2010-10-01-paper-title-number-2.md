@@ -1,7 +1,7 @@
 ---
 title: "Multitask Learning for Aero-Engine Bearing Fault Diagnosis With Limited Data"
 collection: publications
-category: Journal
+category: manuscript
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024
