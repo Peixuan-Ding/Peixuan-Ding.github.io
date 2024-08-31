@@ -3,7 +3,7 @@ title: "A Novel Feature Separation Weight Rectified Network for Mechanical Fault
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Peixuan Ding, Hao Dong, Zhongyang Fei, Xi-Ming Sun'
+excerpt: 'Peixuan Ding, Hao Dong, Zhongyang Fei*, Xi-Ming Sun'
 date: 2024-10-01
 venue: 'IEEE Transactions on Industrial Informatics'
 citation: 'None'
