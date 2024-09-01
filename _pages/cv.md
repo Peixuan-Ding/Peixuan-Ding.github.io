@@ -27,7 +27,7 @@ Projects
 
 Research on basic technology of fault characteristics of propulsion power transmission system (推进系统功率传动系统故障特征基础技术研究)
 
-Cooperation organization: Shenyang Aircraft Design and Research Institute (沈阳飞机设计研究所)
+Cooperation organization: Shenyang Aeroplane Design Institute (沈阳飞机设计研究所)
 
 Responsible for developing the algorithms for vibration signal monitoring and diagnostic technology, solving the technical difficulties, researching and solving the network training problem of insufficient samples, formulating the experimental test plan of the aircraft accessory magazine gear test bench, operating the equipment and collecting the data, processing the data and analysing the results, and completing the project final sub-report.
 
