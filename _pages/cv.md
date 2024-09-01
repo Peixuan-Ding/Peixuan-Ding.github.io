@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * PhD in control theory and engineering, Dalian University of Technology, 2025.06 (expected)
-* Master in space information technology, China Academy of Space Technology, 2020.06
+* Master in space science technology, China Academy of Space Technology, 2020.06
 * Bachelor in automation, Dalian Maritime University, 2017.06
 
 Publications
