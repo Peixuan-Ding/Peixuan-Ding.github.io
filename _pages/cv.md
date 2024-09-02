@@ -21,11 +21,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Projects
+Research Project
 ======
-* Project 1
+* Research on basic technology of fault characteristics of propulsion power transmission system
 
-Research on basic technology of fault characteristics of propulsion power transmission system (推进系统功率传动系统故障特征基础技术研究)
+(推进系统功率传动系统故障特征基础技术研究)
 
 Cooperation organization: Shenyang Aeroplane Design Institute (沈阳飞机设计研究所)
 
@@ -33,9 +33,9 @@ Responsible for developing the algorithms for vibration signal monitoring and di
 
 (负责振动信号监测诊断技术算法开发，梳理技术难点，研究解决样本不足的网络训练问题，制定飞 机附件机匣齿轮箱试验台的实验测试方案，运行设备与采集数据，数据处理及结果分析，完成项目 结题子报告，已结题。)
 
-* Project 2
+* Proprietary technology for aircraft transmission health monitoring
 
-Proprietary technology for aircraft transmission health monitoring (飞机传动装置健康监测专有技术)
+(飞机传动装置健康监测专有技术)
   
 Cooperation organization: Guangzhou Hangxin Aviation Technology Co.,LTD (广州航新航空科技股份有限公司)
 
