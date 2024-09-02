@@ -27,10 +27,10 @@ Research Project
 
 Cooperation organization: Shenyang Aeroplane Design Institute
 
-Responsible for developing the algorithms for vibration signal monitoring and diagnostic technology, solving the technical difficulties, researching and solving the network training problem of insufficient samples, formulating the experimental test plan of the aircraft accessory magazine gear test bench, operating the equipment and collecting the data, processing the data and analysing the results, and completing the project final sub-report.
+Responsible for developing the algorithms for vibration signal monitoring and diagnostic technology, solving the technical difficulties, researching and solving the network training problem of insufficient samples, formulating the experimental test plan of the aircraft accessory magazine gear test bench, operating the equipment and collecting the data, processing the data and analysing the results, and completing the project final reports.
 
 * Proprietary technology for aircraft transmission health monitoring
   
 Cooperation organization: [Guangzhou Hangxin Aviation Technology Co.,LTD](http://hangxin.com/index.aspx)
 
-Responsible for the technical justification of the project, determination of the indicators of the fault characteristics of the vibration signals, formulation and implementation of the test programme of the whole machine, analysis of the vibration signal data and preparation of the mid-term evaluation report of the project, which is currently in its final stage.
+Responsible for the application of the project, determination of the indicators of the fault characteristics of the vibration signals, formulation and implementation of the test programme of the whole machine, analysis of the vibration signal data and preparation of the mid-term report.
