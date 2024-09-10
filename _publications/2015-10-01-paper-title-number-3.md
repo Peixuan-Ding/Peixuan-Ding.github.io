@@ -4,9 +4,9 @@ collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Peixuan Ding, Hao Dong, Zhongyang Fei, Xi-Ming Sun'
-date: 2024-10-01
+date: 2024-09-01
 venue: 'IEEE Transactions on Industrial Informatics'
-citation: 'None'
+citation: 'Accept'
 ---
 
 Abstract:
