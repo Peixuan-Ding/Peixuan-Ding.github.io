@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Peixuan Ding, Hao Dong, Zhongyang Fei, Xi-Ming Sun'
 date: 2024-09-01
 venue: 'IEEE Transactions on Industrial Informatics'
-citation: 'Accept'
+citation: 'P. Ding, H. Dong, Z. Fei and X. -M. Sun, "A Novel Feature Separation Weight Rectified Network for Mechanical Fault Diagnosis Under Partial Domain Adaptation," in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2024.3453370.'
 ---
 
 Abstract:
