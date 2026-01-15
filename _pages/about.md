@@ -11,6 +11,4 @@ Reveived the PhD degree from Dalian University of Technology in December 2025. I
 
 I am very fortunate to be advised by [Prof. Xi-Ming Sun](http://faculty.dlut.edu.cn/2008011041/zh_CN/index.htm) of Key Laboratory of Intelligent Control and Optimisation of Industrial Equipment from [School of Control Science and Engineering](http://scse.dlut.edu.cn), [Dalian University of Technology](https://www.dlut.edu.cn).
 
-You can find my resume here: [Peixuan Ding's Resume](../assets/Resume.pdf) or [简历](../assets/简历.pdf).
-
 Email: ding_peixuan@outlook.com, dingpx@mail.dlut.edu.cn
