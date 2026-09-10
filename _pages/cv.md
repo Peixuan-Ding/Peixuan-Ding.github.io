@@ -9,28 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* PhD in Control theory and engineering, Dalian University of Technology, 2025.12
-* Master in Space science technology, China Academy of Space Technology, 2020.06
-* Bachelor in Automation, Dalian Maritime University, 2017.06
+## Professional experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### Algorithm Development Engineer — SUPCON Technology Co., Ltd.
 
-Research Project
-======
-* Research on basic technology of fault characteristics of propulsion power transmission system
+Current position in industrial algorithm development.
 
-** Cooperation organization: Shenyang Aeroplane Design Institute
+## Education
 
-*** Responsible for developing the algorithms for vibration signal monitoring and diagnostic technology, solving the technical difficulties, researching and solving the network training problem of insufficient samples, formulating the experimental test plan of the aircraft accessory magazine gear test bench, operating the equipment and collecting the data, processing the data and analysing the results, and completing the project final reports.
+- **PhD, Control Theory and Engineering** — Dalian University of Technology, December 2025
+- **Master's, Space Science and Technology** — China Academy of Space Technology, June 2020
+- **Bachelor's, Automation** — Dalian Maritime University, June 2017
 
-* Proprietary technology for aircraft transmission health monitoring
-  
-** Cooperation organization: [Guangzhou Hangxin Aviation Technology Co.,LTD](http://hangxin.com/index.aspx)
+## Publications
 
-*** Responsible for the application of the project, determination of the indicators of the fault characteristics of the vibration signals, formulation and implementation of the test programme of the whole machine, analysis of the vibration signal data and preparation of the mid-term report.
+<ul class="cv-publications">
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+## Research projects
+
+### Fault characteristics of propulsion power transmission systems
+
+**Partner:** Shenyang Aeroplane Design Institute
+
+Developed vibration-signal monitoring and diagnosis algorithms; addressed model training with insufficient fault samples; designed test plans for an aircraft accessory gearbox test bench; operated equipment and collected data; analyzed results; and prepared final project reports.
+
+### Aircraft transmission health monitoring
+
+**Partner:** [Guangzhou Hangxin Aviation Technology Co., Ltd.](http://hangxin.com/index.aspx)
+
+Contributed to the project application; defined vibration-signal fault indicators; planned and implemented whole-machine tests; analyzed vibration data; and prepared the mid-term report.
