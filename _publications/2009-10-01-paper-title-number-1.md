@@ -6,6 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Peixuan Ding, Yi Xu, Pan Qin, Xi-Ming Sun'
 date: 2024-04-18
 venue: 'Applied Intelligence'
+paperurl: 'https://doi.org/10.1007/s10489-024-05429-7'
 citation: 'Ding, P., Xu, Y., Qin, P. et al. A novel deep learning approach for intelligent bearing fault diagnosis under extremely small samples. Appl Intell 54, 5306–5316 (2024). https://doi.org/10.1007/s10489-024-05429-7'
 ---
 
