@@ -10,3 +10,9 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Ignore local preview artifacts
+.tmp-main.css
+.tmp-main.css.map
+.tmp-main.scss
+NUL

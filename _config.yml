@@ -28,7 +28,7 @@ author:
   location         :
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "ding_peixuan@outlook.com"
+  email            : "dingpeixuan@zju.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -315,7 +315,7 @@ whitelist:
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive page ~> type: jekyll-archives
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
@@ -330,15 +330,15 @@ tag_archive:
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
-#  enabled:
-#    - categories
-#    - tags
-#  layouts:
-#    category: archive-taxonomy
-#    tag: archive-taxonomy
-#  permalinks:
-#    category: /categories/:name/
-#    tag: /tags/:name/
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
 
 # HTML Compression
