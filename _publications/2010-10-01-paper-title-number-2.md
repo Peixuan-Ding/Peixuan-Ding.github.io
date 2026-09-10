@@ -6,6 +6,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Peixuan Ding, Yi Xu, Xi-Ming Sun'
 date: 2024-04-30
 venue: 'IEEE Transactions on Instrumentation and Measurement'
+paperurl: 'https://doi.org/10.1109/TIM.2024.3395323'
 citation: 'P. Ding, Y. Xu and X. -M. Sun, "Multitask Learning for Aero-Engine Bearing Fault Diagnosis With Limited Data," in IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-11, 2024, Art no. 3520111, doi: 10.1109/TIM.2024.3395323.'
 ---
 
